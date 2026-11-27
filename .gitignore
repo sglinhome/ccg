@@ -1,0 +1,7 @@
+.ccg.json
+.magpie-council.json
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
